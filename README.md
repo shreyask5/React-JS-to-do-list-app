@@ -44,7 +44,7 @@ To set up and run the app on your local machine:
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/yourusername/todo-list-app.git  
+   git clone https://github.com/shreyask5/React-JS-to-do-list-app.git
    cd todo-list-app  
    ```  
 
